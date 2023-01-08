@@ -1,5 +1,5 @@
-# Mobile-Manufacturer-Data-Analysis-Using-SQL-
-# Business Scenario: 
+# Mobile-Manufacturer-Data-Analysis-Using-SQL
+# Business Scenario 
 The database “Cellphones Information” contains details on
 cell phone sales or transactions.
 Detailes stored are: Dim_manufacturer, Dim_model, Dim_customer,
